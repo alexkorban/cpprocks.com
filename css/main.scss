@@ -6,14 +6,20 @@
 
 
 // Our variables
-$base-font-family: Helvetica, Arial, sans-serif;
-$base-font-size:   16px;
+$base-font-family: "Gentium Book Basic", Georgia, Times, serif;
+$base-font-size:   18px;
 $small-font-size:  $base-font-size * 0.875;
-$base-line-height: 1.5;
+$large-font-size:  $base-font-size * 1.125;
+$base-line-height: 1.7;
+
+$heading-font-family: "Open Sans", Helvetica, Arial, sans-serif;
+
+$pre-font-family: "Inconsolata", monospace;
 
 $spacing-unit:     30px;
 
 $text-color:       #111;
+$heading-color:    #073649;
 $background-color: #fdfdfd;
 $brand-color:      #2a7ae2;
 
