@@ -5,13 +5,18 @@ layout: default
 
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
-    <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+    <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %} • &nbsp;{% include share.html %}</p>
   </header>
 
   <article class="post-content">
     {{ content }}
   </article>
-
+  
+  <p style="margin-top: 1em; margin-bottom: 1em;">
+      <strong>Share:</strong>&nbsp;&nbsp;
+      {% include share.html %}
+  </p>
+ 
   <hr/>
   
   <p><img src = "/img/hardcover-2014-300.png" style = "float: left; border: 0; padding-right: 1em; width: 116px; height: 150px"><br/><em>Keen on mastering C++11/14?</em> I've written books focused on C++11/14 features. You can get a <a href = "/vs2013-edition">VS2013</a>, <a href = "/clang-edition">Clang</a> or a <a href = "/gcc-edition">GCC edition</a>.</p>
