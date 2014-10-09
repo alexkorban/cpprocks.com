@@ -51,7 +51,7 @@ hr {
  */
 h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
-ul, ol, dl, figure,
+ul, ol, dl, figure, table,
 %vertical-rhythm {
     margin-bottom: $spacing-unit / 2;
 }
@@ -156,6 +156,18 @@ blockquote {
     };
 }
 
+/**
+ * Tables 
+ */
+table { 
+    border-spacing: 0;
+    padding: 1px;
+    border: 1px solid $grey-color-light; border-radius: 3px;
+}
+tr:nth-child(even) { background: darken($box-color, 3%); }
+tr:nth-child(odd) { background: $background-color; }
+td { padding: 2px; }
+th { padding: 5px; border: 1px solid $grey-color-light; }
 
 
 /**
@@ -168,7 +180,7 @@ code {
 	letter-spacing: -1px;
     border: 1px solid $grey-color-light;
     border-radius: 6px;
-    background-color: #FFFCF9;
+    background-color: $box-color;
 }
 
 code {

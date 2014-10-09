@@ -9,3 +9,13 @@ twitter_username: cpp_rocks
 
 # Build settings
 markdown: kramdown
+
+# Output settings
+permalink: /:title/
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "post"
