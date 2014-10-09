@@ -63,7 +63,7 @@ This is a sample of what people had to say about my books:
 <br/>
 <a href = "https://getdpd.com/v2/cart/add/11207/78387/81484" class = "orange-button" style = "width: 90%; margin-left: auto; margin-right: auto"><span class = "main-text">Get the book now for just <del>$59</del> $49 ➡</span></a>
 
-<div style = "text-align: center">(or download a <a href = "/files/C++11-14-Rocks-VS2013-Edition-sample.pdf">sample chapter</a> and <a href = "/files/C++11-14-Rocks-VS1013-Edition-TOC.pdf">table of contents</a>)<br/><br/></div>
+<div style = "text-align: center">(or download a <a href = "/files/C++11-14-Rocks-VS2013-Edition-sample.pdf">sample chapter</a> and <a href = "/files/C++11-14-Rocks-VS2013-Edition-TOC.pdf">table of contents</a>)<br/><br/></div>
 
 Remember, I offer a **30-day money back guarantee** if you are not satisfied. 
 

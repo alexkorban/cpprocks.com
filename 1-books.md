@@ -8,6 +8,7 @@ permalink: /books/
 # Visual Studio edition
 
 <a href = "/vs2013-edition"><img src = "/img/hardcover-2014-600.png" alt = "GCC edition" style = "float: right; margin-left: 1em; border: 0; width: 225px; height: 300px;"/></a>
+This edition covers all the C++11 and C++14 language and library changes implemented in VS2013, and includes descriptions of compiler-specific bugs.
 
 Compiler version: **Visual Studio 2013**
 
@@ -17,15 +18,17 @@ Language level: **C++11 and C++14**
 
 <a href = "/vs2013-edition">More about this edition</a>
 
----
+<!-- ---
 
-Using an earlier version of the compiler? Check out <a href = "/vs2012-edition">Visual Studio 2012</a> and <a href = "/vs2010-edition">Visual Studio 2010</a> editions.
+Using an earlier version of the compiler? Check out <a href = "/vs2012-edition">Visual Studio 2012</a> and <a href = "/vs2010-edition">Visual Studio 2010</a> editions. -->
 
 <div style = "clear: both"></div>
 
 # GCC edition
 
 <a href = "/gcc-edition"><img src = "/img/hardcover-2014-600.png" alt = "GCC edition" style = "float: right; margin-left: 1em; border: 0; width: 225px; height: 300px; -webkit-filter: hue-rotate(190deg) contrast(1.1) brightness(1.1); -webkit-transform: translateZ(0)"/></a>
+
+Get the lowdown on all of the C++11 language features.
 
 Compiler version: **GCC 4.8.1 and above**
 
@@ -40,6 +43,8 @@ Language level: **C++11; C++14 as an overview**
 # Clang edition
 
 <a href = "/clang-edition"><img src = "/img/hardcover-2014-600.png" alt = "GCC edition" style = "float: right; margin-left: 1em; border: 0; width: 225px; height: 300px; -webkit-filter: hue-rotate(300deg) contrast(1.1) brightness(1.1); -webkit-transform: translateZ(0)"/></a>
+
+Get the lowdown on all of the C++11 and C++14 language features.
 
 Compiler version: **Clang 3.4 and above**
 
