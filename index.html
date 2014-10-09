@@ -3,17 +3,72 @@ layout: default
 ---
 
 <div class="home">
+  <style>
+  blockquote {
+      font-size: smaller; clear: both; margin-top: 1.5em;
+  }
+  </style>
+        
+  <h2>C++11/14 Rocks books</h2>
+        
+  <div style = "min-height: 150px">
+  <a href = "/vs2013-edition"><img src = "/img/hardcover-2014-600.png" alt = "GCC edition" style = "display: block; float: left; margin-right: 1em; border: 0; width: 113px; height: 150px;"/></a>
+  <h3>Visual Studio 2013 edition</h3>
+  
+  This edition covers all the C++11 and C++14 language and library changes implemented in VS2012, <em>and</em> includes descriptions of compiler-specific bugs. <a href = "/vs2013-edition">Find out more</a>
+  </div>
+  
+  <blockquote>This book really rocks. I have a good comparison as in parallel I read Stroustrup’s newest version of “The C++ programming language”. C++11 Rocks is really good as it touches the new concepts at correct level: neither too superficial nor too deep. Just at the level to quickly grasp it. – <em>Michal Rotkiewicz</em></blockquote>
+  
+  <div style = "min-height: 150px">
+  <a href = "/gcc-edition"><img src = "/img/hardcover-2014-600.png" alt = "GCC edition" style = "display: block; float: left; margin-right: 1em; border: 0; width: 113px; height: 150px; -webkit-filter: hue-rotate(190deg) contrast(1.1) brightness(1.1); -webkit-transform: translateZ(0)"/></a>
+  
+  <h3>GCC edition</h3>
 
-  <!-- <h1 class="page-heading">Posts</h1> -->
+  Get the lowdown on all of the C++11 language features implemented in <a href = "/gcc-edition">GCC 4.8 and above</a>.
+  </div>
+      
+    <blockquote>I picked up a copy of Alex’s book, and he has done some amazing work! For those of you who find yourself short on time, but need to know what’s new and keep current this book has it all. It’s a great time saver, and the organization of the material makes it a great companion reference. - <em>Jay D. Campbell</em></blockquote>   
+    
+  <div style = "height: 160px">
+  <a href = "/clang-edition"><img src = "/img/hardcover-2014-600.png" alt = "GCC edition" style = "display: block; float: left; margin-right: 1em; border: 0; width: 113px; height: 150px; -webkit-filter: hue-rotate(300deg) contrast(1.1) brightness(1.1); -webkit-transform: translateZ(0)"/></a>
+  
+  <h3>Clang edition</h3>
 
+  Get the lowdown on all of the C++11 &amp; C++14 language features implemented in <a href = "/clang-edition">Clang 3.4 and above</a>.
+  </div>
+    
+
+  <h2 style = "margin-top: 2em">C++ cheatsheets</h2>
+  
+  <div style = "display: inline-block; margin-right: 2em; text-align: center">
+      C++11 concurrency<br/>
+      <a href = "/files/C++-concurrency-cheatsheet.pdf"><img src = "/img/concurrency-cheatsheet-450.jpg" width = "150" /></a><br/>
+      <a href = "/files/C++-concurrency-cheatsheet.pdf">Download</a>
+  </div>
+
+  <div style = "display: inline-block; margin-right: 2em; text-align: center">
+      C++11 regular expressions<br/>
+      <a href = "/files/c++11-regex-cheatsheet.pdf"><img src = "/img/regex-cheatsheet-450.jpg" width = "150" /></a><br/>
+      <a href = "/files/c++11-regex-cheatsheet.pdf">Download</a>
+  </div>
+
+  <div style = "display: inline-block; margin-right: 2em; text-align: center">
+      C++11 STL additions<br/>
+      <a href = "/files/c++11-stl-cheatsheet.pdf"><img src = "/img/stl-cheatsheet-450.jpg" width = "150" /></a><br/>
+      <a href = "/files/c++11-stl-cheatsheet.pdf">Download</a>
+  </div>
+
+  <h2 style = "margin-top: 2em">Recent blog posts</h2>
+  
   <ul class="post-list">
-    {% for post in site.posts %}
+    {% for post in site.posts limit:5 %}
       <li>
         <!-- <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span> -->
 
-        <h2>
+        <h3>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> 
-        </h2>
+        </h3>
     <p class="post-meta post-tags">{{ post.date | date: "%b %-d, %Y" }}{% if post.author %} • {{ post.author }}{% endif %}{% if post.tags %} • &nbsp;{% for tag in post.tags %}<span class = "post-tag">{{ tag }}</span>&nbsp;{% endfor %}&nbsp;{% endif %}{% if post.meta %} • {{ post.meta }}{% endif %}</p>
 		
 		<!-- <div class = "post-tags">
