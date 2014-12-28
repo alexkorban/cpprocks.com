@@ -7,7 +7,7 @@ permalink: /contact/
 
 Drop me a line at **hello {at} this domain** or use the form below.
 
-<form action="//forms.brace.io/hello@cpprocks.com" method="POST">
+<form action="//formspree.io/hello@cpprocks.com" method="POST">
     <input type="text" name="name" placeholder="Your name" style = "width: 30%">
     <input type="email" name="_replyto" placeholder="Your email" style = "width: 30%">
     <textarea name="message" rows="10" placeholder="Your message" style = "width: 50%"></textarea>
