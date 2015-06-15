@@ -71,7 +71,7 @@ An interesting feature is parameter placeholders in function calls inserted via 
 
 The whole placeholder is selected as soon as the cursor goes over it, and it can be typed over. This is quite helpful, although as you can see, placeholders can be _really_ long as they include automatically generated type names.
 
-Another feature is automatic addition of _#include_s based on what I'm typing. E.g. if I'm writing a function declaration and add a _chrono::time_point_ parameter, a `#include <chrono>` statement is automatically added to the top of the file. I don't think this feature is complete so I don't want to bash it too much, but it didn't work for me. 
+Another feature is automatic addition of `#include`s based on what I'm typing. E.g. if I'm writing a function declaration and add a `chrono::time_point` parameter, a `#include <chrono>` statement is automatically added to the top of the file. I don't think this feature is complete so I don't want to bash it too much, but it didn't work for me. 
 
 For one thing, it added includes outside the header guard. For another, it didn't seem reliable and I couldn't figure out when it does or doesn't add an include. In any case, seeing as includes can cause significant issues with cycles and build times, I'm not sure this can be automated well, especially in a large project. But I'll be happy if it is :)
 
