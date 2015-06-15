@@ -57,7 +57,7 @@ Turns out, this is just an aspect of code folding. Template declarations are fol
 
 It would be good if the editor evaluated macros and greyed out any code that isn't going to get compiled (the way Visual Studio does). That doesn't seem to be implemented though:
 
-<img src = "/img/Screen-Shot-2014-09-10-at-12.19.29-pm.png" width = "581" height = "174"
+<img src = "/img/Screen-Shot-2014-09-10-at-12.19.29-pm.png" width = "581" height = "174" />
 
 ## Code Completion and Interactive Feedback
 
