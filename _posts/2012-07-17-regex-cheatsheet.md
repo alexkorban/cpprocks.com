@@ -10,7 +10,7 @@ Because I wanted to limit the cheatsheet to one page, I couldn't include all the
 Click on the image below to download the PDF version:
 
 <p style = "text-align: center">
-<a href = "/files/C++11-regex-cheatsheet.pdf"><img src = "/img/regex-cheatsheet-450.jpg" width="450" height="317" /></a>
+<a href = "/files/c++11-regex-cheatsheet.pdf"><img src = "/img/regex-cheatsheet-450.jpg" width="450" height="317" /></a>
 <br/>
-<a href = "/files/C++11-concurrency-cheatsheet.pdf">Download C++11 regex cheatsheet</a>
+<a href = "/files/c++11-concurrency-cheatsheet.pdf">Download C++11 regex cheatsheet</a>
 </p>
