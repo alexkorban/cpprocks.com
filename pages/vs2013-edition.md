@@ -28,7 +28,7 @@ Any non-trivial project will benefit from using the new features. These are the 
 
 Start mastering the full power of modern C++:
 
-<a href = "https://getdpd.com/v2/cart/add/11207/78387/81484" class = "orange-button" style = "width: 90%; margin-left: auto; margin-right: auto"><span class = "main-text">Get the book now for just <del>$59</del> $49 ➡</span></a>
+<a href = "https://getdpd.com/v2/cart/add/11207/78387/81484" class = "orange-button" style = "width: 90%; margin-left: auto; margin-right: auto"><span class = "main-text">Get the book now for just <del>$49</del> $19 ➡</span></a>
 
 <div style = "text-align: center">(or download a <a href = "/files/C++11-14-Rocks-VS2013-Edition-sample.pdf">sample chapter</a> and <a href = "/files/C++11-14-Rocks-VS2013-Edition-TOC.pdf">table of contents</a>)<br/><br/></div>
 
@@ -61,7 +61,7 @@ This is a sample of what people had to say about my books:
 > Thanks again for the book! I find myself referring to it frequently as I try to integrate the new C++11 features into my daily work. I can’t imagine how many hours you spent working out all of the idiosyncrasies in the VS2010 implementation but those are hours I get to save! - _Angel Marquez (@DebugMonkey)_
 
 <br/>
-<a href = "https://getdpd.com/v2/cart/add/11207/78387/81484" class = "orange-button" style = "width: 90%; margin-left: auto; margin-right: auto"><span class = "main-text">Get the book now for just <del>$59</del> $49 ➡</span></a>
+<a href = "https://getdpd.com/v2/cart/add/11207/78387/81484" class = "orange-button" style = "width: 90%; margin-left: auto; margin-right: auto"><span class = "main-text">Get the book now for just <del>$49</del> $19 ➡</span></a>
 
 <div style = "text-align: center">(or download a <a href = "/files/C++11-14-Rocks-VS2013-Edition-sample.pdf">sample chapter</a> and <a href = "/files/C++11-14-Rocks-VS2013-Edition-TOC.pdf">table of contents</a>)<br/><br/></div>
 
