@@ -71,8 +71,6 @@ This is a sample of what people had to say about my books:
 
 Remember, I offer a **30-day money back guarantee** if you are not satisfied. 
 
-Not ready to buy the book yet? [Sign up for the mailing list](https://aoteastudios.wufoo.com/forms/k2eiim00dba19t/) to get free C++ tidbits. 
-
 ---
 
 ### About the author
