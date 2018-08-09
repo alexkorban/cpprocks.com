@@ -15,7 +15,7 @@
 
       <div class="trigger">
         {% for page in site.pages %}
-          {% if page.title %}
+          {% if page.title != nil %}
           <a class="page-link" href="{{ page.url | prepend: site.baseurl }}" title="{{ page.tooltip }}">{{ page.title }}</a>
           {% endif %}
         {% endfor %}
