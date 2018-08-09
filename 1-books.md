@@ -1,5 +1,6 @@
 ---
 layout: page
+showInMenu: "yes"
 title: C++11/14 Books
 tooltip: "C++11/14 book series: Visual Studio, GCC, Clang"
 permalink: /books/

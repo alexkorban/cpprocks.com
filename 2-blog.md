@@ -1,5 +1,6 @@
 ---
 layout: page
+showInMenu: "yes"
 title: Blog
 tooltip: C++ tidbits
 permalink: /blog/

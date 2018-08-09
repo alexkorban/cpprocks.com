@@ -1,5 +1,6 @@
 ---
 layout: page
+showInMenu: "yes"
 title: Contact
 tooltip: Questions and comments
 permalink: /contact/

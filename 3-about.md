@@ -1,5 +1,6 @@
 ---
 layout: page
+showInMenu: "yes"
 title: About
 tooltip: About the author
 permalink: /about/
