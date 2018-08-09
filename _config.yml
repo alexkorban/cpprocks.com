@@ -4,7 +4,7 @@ email: hello <at> this domain
 description: > # this means to ignore newlines until "baseurl:"
     This is a resource for developers writing modern C++, with a focus on the       latest revisions of the language: C++11 and C++14.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://cpprocks.com" # the base hostname & protocol for your site
+url: "https://cpprocks.com" # the base hostname & protocol for your site
 twitter_username: cpp_rocks
 
 # Build settings
