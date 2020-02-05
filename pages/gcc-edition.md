@@ -32,7 +32,7 @@ Any non-trivial project will benefit from using the new features. These are the 
 
 Start mastering the full power of modern C++:
 
-<a href = "https://getdpd.com/v2/cart/add/11207/76674/79596" class = "orange-button" style = "width: 90%; margin-left: auto; margin-right: auto"><span class = "main-text">Get the book now for just <del>$29</del> $19 ➡</span></a>
+<a href = "https://getdpd.com/v2/cart/add/11207/76674/79596" class = "orange-button" style = "width: 90%; margin-left: auto; margin-right: auto"><span class = "main-text">Get the book now for just <del>$29</del> $9 ➡</span></a>
 
 <div style = "text-align: center">(or download a <a href = "/files/C++11-Rocks-GCC-Edition-sample.pdf">sample chapter</a> and <a href = "/files/C++11-Rocks-GCC-Edition-TOC.pdf">table of contents</a>)<br/><br/></div>
 
@@ -44,7 +44,7 @@ You get the book in PDF, EPUB and Mobi formats.
 
 #### Need more than one copy?
 
-The team license allows you to share the book with up to 100 people for just $299.
+The team license allows you to share the book with up to 30 developers for just $99.
 
 <a href = "https://getdpd.com/v2/cart/add/11207/76674/81469" class = "grey-button" style = "width: 90%; margin-left: auto; margin-right: auto"><span class = "main-text">Buy team license now ➡</span></a>
 
@@ -65,7 +65,7 @@ This is a sample of what people had to say about my books:
 
 
 <br/>
-<a href = "https://getdpd.com/v2/cart/add/11207/76674/79596" class = "orange-button" style = "width: 90%; margin-left: auto; margin-right: auto"><span class = "main-text">Get the book now for just <del>$29</del> $19 ➡</span></a>
+<a href = "https://getdpd.com/v2/cart/add/11207/76674/79596" class = "orange-button" style = "width: 90%; margin-left: auto; margin-right: auto"><span class = "main-text">Get the book now for just <del>$29</del> $9 ➡</span></a>
 
 <div style = "text-align: center">(or download a <a href = "/files/C++11-Rocks-GCC-Edition-sample.pdf">sample chapter</a> and <a href = "/files/C++11-Rocks-GCC-Edition-TOC.pdf">table of contents</a>)<br/><br/></div>
 
@@ -76,4 +76,4 @@ Remember, I offer a **30-day money back guarantee** if you are not satisfied.
 ### About the author
 <img src = "/img/me.jpg" alt = "Alex Korban" style = "float: left; margin-right: 1em; margin-top: 0.5em" />
 
-Alex Korban has been crafting software for over 12 years and educating software developers since 2012. He's been advocating the use of modern C++, STL and Boost for a long time. Alex has worked for a range of companies, from web startups to a US multinational, and on a variety of C++ projects including a flight simulator, geospatial applications, computer controlled bulldozer blades, and even software driven kerb laying machines (these 4 metre tall beasts are very cool to see in action!).
+Alex Korban has been crafting software for over 20 years and educating software developers since 2012. He's been advocating the use of modern C++, STL and Boost for a long time. Alex has worked for a range of companies, from web startups to a US multinational, and on a variety of C++ projects including a flight simulator, geospatial applications, computer controlled bulldozer blades, and even software driven kerb laying machines (these 4 metre tall beasts are very cool to see in action!).
